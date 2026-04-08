@@ -1,10 +1,10 @@
-package com.theakylino.designpatterns;
+package com.theakylino;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesignPatternCreationalBuilderApplicationTests {
+class MainTests {
 
 	@Test
 	void contextLoads() {
