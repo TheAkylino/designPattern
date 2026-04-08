@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="010b9c44-e5b0-4790-ab3e-885ffb941ad5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/controller/AccountRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/designpatterns/DesignPatternCreationalBuilderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/main/java/com/theakylino/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern-creational-builder/src/test/java/com/theakylino/designpatterns/DesignPatternCreationalBuilderApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern-creational-builder/src/test/java/com/theakylino/MainTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3C3iXZJrcabfIVme8yBPx67ucBA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Main.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/design-pattern-creational-builder",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/developer/projects/workspace/Traninnig/AtilioOlazo/designPattern/pom.xml",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="design-pattern-creational-builder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.theakylino.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.theakylino.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="010b9c44-e5b0-4790-ab3e-885ffb941ad5" name="Changes" comment="" />
+      <created>1775620695930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775620695930</updated>
+      <workItem from="1775620697849" duration="20000" />
+      <workItem from="1775620729253" duration="9000" />
+    </task>
+    <servers />
+  </component>
+</project>
